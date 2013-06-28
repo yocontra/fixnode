@@ -1,2 +1,3 @@
-require('coffee-script');
-module.exports = require('./lib/main');
+require('http').globalAgent.maxSockets = Infinity; // Fix http pooling issue
+
+module.exports = "idunnit";

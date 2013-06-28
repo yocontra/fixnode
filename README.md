@@ -1,14 +1,12 @@
-[![Build Status](https://travis-ci.org/wearefractal/APPNAME.png?branch=master)](https://travis-ci.org/wearefractal/APPNAME)
-
 ## Information
 
 <table>
 <tr> 
-<td>Package</td><td>APPNAME</td>
+<td>Package</td><td>fixnode</td>
 </tr>
 <tr>
 <td>Description</td>
-<td>DESCRIPTIONHERE</td>
+<td>Fixes a bunch of shitty problems</td>
 </tr>
 <tr>
 <td>Node Version</td>
@@ -16,11 +14,9 @@
 </tr>
 </table>
 
-## Usage
+## What does it do
 
-```coffee-script
-NOTHING HERE YET
-```
+As of now: Set maxSockets to infinity
 
 ## LICENSE
 
