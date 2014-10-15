@@ -1,19 +1,18 @@
 {
-   "name":"fixnode",
-   "description":"Fixes a bunch of shitty problems",
-   "version":"0.0.1",
-   "homepage":"http://github.com/wearefractal/fixnode",
-   "repository":"git://github.com/wearefractal/fixnode.git",
-   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
-   "main":"./index.js",
-   
-   "engines":{
-      "node":">= 0.4.0"
-   },
-   "licenses":[
-      {
-         "type":"MIT",
-         "url":"http://github.com/wearefractal/fixnode/raw/master/LICENSE"
-      }
-   ]
+  "name": "fixnode",
+  "description": "Fixes a bunch of shitty problems",
+  "version": "0.0.2",
+  "homepage": "http://github.com/wearefractal/fixnode",
+  "repository": "git://github.com/wearefractal/fixnode.git",
+  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/fixnode/raw/master/LICENSE"
+    }
+  ]
 }
