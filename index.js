@@ -1,3 +1,6 @@
-require('http').globalAgent.maxSockets = Infinity; // Fix http pooling issue
+var http = require('http');
+var https = require('http');
 
-module.exports = "idunnit";
+// Fix http pooling issue
+http.globalAgent.maxSockets = Infinity;
+https.globalAgent.maxSockets = Infinity;
